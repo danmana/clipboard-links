@@ -1,7 +1,7 @@
 # clipboard-links
 A desktop program that monitors my clipboard for URLs and logs them automatically
 
-An under 30 minute solution to https://www.reddit.com/r/programming/comments/qpkx8n/this_project_will_only_take_2_hours/
+An under 30 minute solution to https://web.eecs.utk.edu/~azh/blog/thisprojectwillonlytake.html (found on reddit https://www.reddit.com/r/programming/comments/qpkx8n/this_project_will_only_take_2_hours/ )
 
 How to run it
 ```sh
@@ -21,3 +21,6 @@ How long it took:
 5 min to handle error if clipboard contains files
 15 min to push to github, write a README, post on reddit
 ```
+
+Contributions are welcome!  
+Submit your PRs and turn this into a full featured solution.

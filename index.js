@@ -14,7 +14,7 @@ setInterval(() => {
         fs.appendFileSync('./urls.txt', `${now} ${url}\n`);
       }
     }
-  } catch (e) {
+  } catch (e) { // ignore errors when we have things like images on the clipboard
     console.error(e);
   }
 }, 500);
